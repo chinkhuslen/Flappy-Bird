@@ -18,9 +18,9 @@
     text-shadow: 0 0 10px pink,0 0 20px pink, 0 0 5px pink,0 0 30px pink;
 }
 #score{
-    font-size: 4em;
-    width: 200px;
-    height:100px;
+    font-size: 5vh;
+    width: 20vh;
+    height:10vh;
     border: 1px solid;
     margin-bottom: 20px;
 }
